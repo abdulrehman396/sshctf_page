@@ -38,7 +38,7 @@ const Hero: React.FC = () => {
             <h3 className="text-cyan-400 font-bold">Military College of Signals</h3>
           </div>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-4">
-            Signalian Security Hub
+            Signalianz Security Hub
           </h1>
           <h2 className="text-2xl md:text-3xl text-gray-200 mb-6 h-8">
             {text}<span className="animate-pulse">|</span>

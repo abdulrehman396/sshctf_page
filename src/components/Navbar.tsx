@@ -24,7 +24,7 @@ const Navbar: React.FC = () => {
         <div className="flex justify-between items-center">
           <div className="flex items-center">
             <Shield className="h-8 w-8 text-cyan-500 mr-2" />
-            <span className="text-white font-bold text-xl">Signalian Security Hub</span>
+            <span className="text-white font-bold text-xl">Signalianz Security Hub</span>
           </div>
           
           {/* Desktop Navigation */}
